@@ -2,15 +2,16 @@
   
 
 
-- 🔭 I’m currently working on FASTAPI and Python project!🌱 
-- 👯 I am also learning Azure 
-
-![image](https://github.com/user-attachments/assets/eaa48984-528c-40ce-bb81-016c25041ecd)
+🔭 I’m currently working on FASTAPI and Python projects!🌱 
+👯 I am also learning Azure 
 
 ### Social Networks
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=2867B2&color=0D1117&style=flat-square)](https://www.linkedin.com/in/khushi-upadhyay)
 <!--
+
+### Website
+https://khushiu.netlify.app/
 
                              \\\\\\\
                             \\\\\\\\\\\\
