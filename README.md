@@ -1,4 +1,4 @@
-  ## Hi there 👋 This is Khushi Upadhyay!##
+  ## Hi there 👋 This is Khushi Upadhyay!
   
 
 
