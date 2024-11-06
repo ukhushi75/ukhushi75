@@ -3,6 +3,7 @@
 
 
 🔭 I’m currently working on FASTAPI and Python projects!🌱 
+
 👯 I am also learning Azure 
 
 ### Social Networks
