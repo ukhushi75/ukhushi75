@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on FASTAPI and Python projects!🌱 
 
-👯 I am also learning Azure 
+👯 I am also learning Azure ⚡
 
 ### Social Networks
 
@@ -13,27 +13,9 @@
 ### Website
 https://khushiu.netlify.app/
 
+ ![](https://komarev.com/ghpvc/?username=ukhushi75&style=flat-square)
 
 <!--
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |==========='
 
 
 **ukhushi75/ukhushi75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
