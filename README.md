@@ -1,7 +1,4 @@
 
- ![](https://komarev.com/ghpvc/?username=ukhushi75&style=flat-square)
-
-
 # 👋 Hi, I'm Khushi Upadhyay!
 
 I'm a passionate **Full Stack** and **Frontend Developer** with a growing interest in **Embedded Systems**. I enjoy building intuitive, responsive web apps and exploring the intersection of hardware and software.
