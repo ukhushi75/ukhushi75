@@ -1,35 +1,41 @@
-  ## Hi there 👋 This is Khushi Upadhyay!
-  
-
-
-🔭 I’m currently working on FASTAPI and Python projects!🌱 
-
-👯 I am also learning Azure ⚡
-
-### Social Networks
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=2867B2&color=0D1117&style=flat-square)](https://www.linkedin.com/in/khushi-upadhyay)
-
-### Website
-https://khushiu.netlify.app/
 
  ![](https://komarev.com/ghpvc/?username=ukhushi75&style=flat-square)
 
-<!--
 
+# 👋 Hi, I'm Khushi Upadhyay!
 
-**ukhushi75/ukhushi75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack** and **Frontend Developer** with a growing interest in **Embedded Systems**. I enjoy building intuitive, responsive web apps and exploring the intersection of hardware and software.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Frontend**: React, Tailwind CSS, JavaScript, HTML5, CSS3
+- **Backend**: Node.js, Express, REST APIs
+- **Full Stack**: MERN Stack (MongoDB, Express, React, Node.js)
+- **Embedded**: C/C++, Arduino, Microcontrollers
+- **Cloud & DevOps**: Docker, GitHub Actions, Firebase
+- **Tools**: Git, VS Code, Postman, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- ![](https://komarev.com/ghpvc/?username=ukhushi75&style=flat-square)
+## 🚀 Current Focus
+- Enhancing my **portfolio** with more real-world full stack projects
+- Contributing to **open source**
+- Exploring **embedded Linux** and IoT integrations
 
--->
+## 🧠 Learning Goals
+- Dive deeper into **system design**
+- Practice **LeetCode** for coding interviews
+- Build end-to-end **cloud-native apps**
+
+## 📂 Featured Projects
+Check out my pinned repositories for:
+- Full Stack web apps with complete CRUD functionality
+- React UI components and design systems
+- Embedded systems projects using Arduino/C++
+
+## 📫 Let's Connect
+- 🌐 Portfolio: https://khushiu.netlify.app/
+- 📧 Email: ukhushi75@gmail.com
+- 🐦 LinkedIn https://www.linkedin.com/in/khushi-upadhyay
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+
