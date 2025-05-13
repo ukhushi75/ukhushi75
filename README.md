@@ -33,7 +33,7 @@ Check out my pinned repositories for:
 ## 📫 Let's Connect
 - 🌐 Portfolio: https://khushiu.netlify.app/
 - 📧 Email: ukhushi75@gmail.com
-- 🐦 LinkedIn https://www.linkedin.com/in/khushi-upadhyay
+- 🐦 LinkedIn: https://www.linkedin.com/in/khushi-upadhyay
 
 ---
 
